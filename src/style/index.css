@@ -1,0 +1,9 @@
+.box {
+  background-color: #caf;
+  font-size: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background: url("../assets/img/say.jpg");
+}
+/*# sourceMappingURL=index.css.map */
